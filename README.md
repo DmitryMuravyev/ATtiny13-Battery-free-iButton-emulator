@@ -14,7 +14,7 @@ The device is designed just for fun and as a souvenir.
 
 See the detailed review of the project on my YT-channel (English subtitles): https://youtu.be/5b73LqXjfCg
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5b73LqXjfCg/maxresdefault.jpg)](https://www.youtube.com/watch?v=5b73LqXjfCg)
+[![Click to see](https://img.youtube.com/vi/5b73LqXjfCg/maxresdefault.jpg)](https://www.youtube.com/watch?v=5b73LqXjfCg)
 
 **Attention!**
 
